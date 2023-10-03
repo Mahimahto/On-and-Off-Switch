@@ -3,6 +3,6 @@ body{
     justify-content: center;
 }
 
-#button{
-    font-size: 70px;
+.button{
+    font-size: 30px;
 }
